@@ -324,6 +324,14 @@ ul{
         grid-template-columns: 1fr;
     } 
 
+    .footer .footer-inner{
+        /* height: 200px; */
+    }
+
+    .footer .footer-inner ul{
+        width: 320px;
+    }
+
 }
 
 
